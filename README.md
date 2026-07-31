@@ -30,7 +30,7 @@ Retrouvez mon travail et mes cours sur mon profil **JobMaxime** :
 *   **🛠️ Projets Techniques & Académiques :**
     *   [`BJTU project`](https://github.com/JobMaxime/projet/tree/main/BJTU%20project)
     *   [`proverif`](https://github.com/JobMaxime/projet/tree/main/proverif)
- *   **📄 Ressources :**
+ *   **[📄 Ressources](https://github.com/JobMaxime/CV/blob/main/README.md) :**
     *   Mon dépôt [`CV`](https://github.com/JobMaxime/CV/blob/main/CV-Maxime-MARIE-Informatique-%26-Cybers%C3%A9curit%C3%A9-1.pdf) (Public) centralise mon CV au format PDF ainsi que mon [calendrier d'alternance](https://github.com/JobMaxime/CV/blob/main/BACHELOR_CYBER_3_Calendrier_2026_2027.pdf).
 
 ---
