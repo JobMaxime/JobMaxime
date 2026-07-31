@@ -1,57 +1,68 @@
-# 🕵️‍♂️ `>_ user: maxime_marie --status "seeking_alternance"`
-# I will change it just testing :)
+# 🛡️ Maxime MARIE - Profil & Recherche d'Alternance
 
-> **Target Acquired:** Seeking a Cybersecurity/IT Alternance (2026-2027) | Mobility: Île-de-France
-> **Base:** Entering 3rd Year Bachelor in Cybersecurity @ EPITA 
+**Recherche Alternance Informatique / Cybersécurité**  
+🎓 Étudiant de 20 ans en 3ème année de Bachelor Cybersécurité à l'EPITA (Rythme 2026-2027)  
+📍 Mobilité : Île-de-France  
 
-```bash
-$ whoami
-> Name: Maxime Marie
-> Age: 20
-> Core_Focus: OSINT, Reverse Engineering, Forensics, Malware Analysis
-> Mission: Actively hunting for a work-study program (alternance)
-> Passion: OSINT is my absolute favorite subject and the one I constantly strive to improve!
+---
 
-⚡ sys.modules // Skills & Technical Foundation
+## 📞 Contact & Réseaux
+- **Email :** [maxime.marie@epita.fr](mailto:maxime.marie@epita.fr)
+- **Téléphone :** 06 81 36 58 51
+- **LinkedIn :** [linkedin.com/in/maxime-marie](https://www.linkedin.com/in/maxime-marie-9a3b33423)
 
-Through my coursework at EPITA and personal practice, I have built a solid foundation across development, systems, and security:
+---
 
-    [Programming & Dev] Python C Advanced C Java (OOP) Assembly Web Development SQL
+## 🎯 À Propos de Moi
 
-    [Systems & Networks] Linux Admin Windows Active Directory Advanced Networking Virtualization & Container Security Cloud Concepts
+> *"Passionné par l'informatique, je suis actuellement à la recherche d'une alternance pour ma 3ème année de Bachelor spécialisé en Cybersécurité. Je suis ouvert à tout sujet stimulant en lien avec ce secteur !"*
 
-    [Cybersecurity Core] OSINT Digital Forensics Reverse Engineering Cryptography Malware Analysis
+Curieux et investi, j'aime particulièrement l'**OSINT** (mon domaine favori que je cherche continuellement à améliorer) et la résolution de challenges. J'enrichis régulièrement mon portfolio GitHub avec divers projets techniques et académiques. 
 
-    [Theory & Logic] Algorithmics & Data Structures Graph Theory & Matrices Algorithmic Complexity Discrete Probabilities
+---
 
-📂 ls ./projects
+## 💻 Projets GitHub
 
-Here are some of the repositories and projects I am currently working on:
+Retrouvez mon travail et mes cours sur mon profil **JobMaxime** :
 
-    🔍 morse osint
+*   **🔍 Projets OSINT & Forensics :**
+    *   `morse osint` : Résolution de challenges et création de write-ups (*ex: Walktrough_Secret_Location.md*).
+*   **🛠️ Projets Techniques & Académiques :**
+    *   `BJTU project`
+    *   `proverif`
+    *   `projet` : Scripts et analyses de données (*Jupyter Notebook*).
+*   **📄 Ressources :**
+    *   Mon dépôt `CV` (Public) centralise mon CV au format PDF ainsi que mon calendrier d'alternance.
 
-        Contains my Walktrough_Secret_Location.md, detailing my investigation methodology and passion for Open Source Intelligence.
+---
 
-    🛡️ proverif
+## 📚 Compétences & Enseignements Suivis
 
-        Academic project focusing on applied cybersecurity concepts and cryptographic protocol verification.
+Au cours de mon cursus à l'EPITA, j'ai développé un panel de compétences variées, allant du bas niveau jusqu'à l'investigation numérique. 
 
-    💻 BJTU project
+### 🔐 Cybersécurité & Investigation
+*   **OSINT** *(Open Source Intelligence - Mon domaine de prédilection)*
+*   Techniques pour l'analyse forensique et la recherche de preuves numériques
+*   Analyse de malwares & Reverse Engineering
+*   Arithmétique pour la cryptographie
+*   Virtualisation et sécurité des conteneurs
+*   Python pour la sécurité
 
-        Collaborative development and technical implementation project.
+### 🖥️ Systèmes, Cloud & Réseaux
+*   **Systèmes d'exploitation :** Linux (Introduction, Environnement, Administration), Introduction à l'OS Windows, Windows Active Directory.
+*   **Réseaux :** Introduction aux réseaux, Réseaux avancés.
+*   **Cloud :** Introduction aux concepts du Cloud.
+*   **Matériel :** Architecture des ordinateurs, Assembleur.
 
-    📓 projet
+### 👨‍💻 Développement & Ingénierie Logicielle
+*   **Programmation :** Python, C, C avancé, Java (Programmation Orientée Objet).
+*   **Données & Web :** Bases de données / SQL, Développement Web.
+*   **Algorithmique :** Algorithmes et structures de données, Introduction à la complexité algorithmique.
 
-        Python-based scripting and data exploration utilizing Jupyter Notebooks.
+### ⚙️ Sciences de l'Ingénieur
+*   **Mathématiques :** Raisonnement et analyse mathématique, Probabilités discrètes, Graphes et matrices.
+*   **Électronique :** Électronique et électricité.
+*   **Communication :** Techniques de communication et d'expression.
 
-📡 ping -c 1 maxime_marie
-
-If you are a recruiter, a fellow student, or just want to talk about OSINT, feel free to reach out. I have attached my calendar and CV in this repository for full transparency on my school rhythm.
-
-    📧 Email: maxime.marie@epita.fr
-
-    💼 LinkedIn: linkedin.com/in/maxime-marie
-
-    📄 Payloads: View my CV | View my Alternance Calendar
-
-If you need further details about my courses or availability, do not hesitate to contact me!
+---
+*Si mon profil vous intéresse, n'hésitez pas à me contacter directement par email*
