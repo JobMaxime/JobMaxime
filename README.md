@@ -26,13 +26,12 @@ Curieux et investi, j'aime particulièrement l'**OSINT** (mon domaine favori que
 Retrouvez mon travail et mes cours sur mon profil **JobMaxime** :
 
 *   **🔍 Projets OSINT & Forensics :**
-    *   `morse osint` : Résolution de challenges et création de write-ups (*ex: Walktrough_Secret_Location.md*).
+    *   [`morse osint`](https://github.com/JobMaxime/projet/tree/main/morse%20osint) : Résolution de challenges et création de write-ups (*ex: Walktrough_Secret_Location.md*).
 *   **🛠️ Projets Techniques & Académiques :**
-    *   `BJTU project`
-    *   `proverif`
-    *   `projet` : Scripts et analyses de données (*Jupyter Notebook*).
-*   **📄 Ressources :**
-    *   Mon dépôt `CV` (Public) centralise mon CV au format PDF ainsi que mon calendrier d'alternance.
+    *   [`BJTU project`](https://github.com/JobMaxime/projet/tree/main/BJTU%20project)
+    *   [`proverif`](https://github.com/JobMaxime/projet/tree/main/proverif)
+ *   **📄 Ressources :**
+    *   Mon dépôt [`CV`](https://github.com/JobMaxime/CV/blob/main/CV-Maxime-MARIE-Informatique-%26-Cybers%C3%A9curit%C3%A9-1.pdf) (Public) centralise mon CV au format PDF ainsi que mon [calendrier d'alternance](https://github.com/JobMaxime/CV/blob/main/BACHELOR_CYBER_3_Calendrier_2026_2027.pdf).
 
 ---
 
